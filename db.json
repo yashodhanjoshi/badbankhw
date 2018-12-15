@@ -1,0 +1,102 @@
+{
+  "accounts": [
+    {
+      "name": "",
+      "email": "",
+      "balance": 0,
+      "password": "",
+      "transactions": []
+    },
+    {
+      "name": "yash",
+      "email": "yash@mit.edu",
+      "password": "abhi",
+      "balance": 10950,
+      "transactions": " Deposited 1000,  Deposited 10000,  Withdraw 50, "
+    },
+    {
+      "name": "yash Joshi",
+      "email": "yashj@mit.edu",
+      "password": "yash",
+      "balance": 49950,
+      "transactions": " Deposited 50000,  Withdraw 50, "
+    },
+    {
+      "name": "peter parker",
+      "email": "peter@mit.edu",
+      "password": "peter",
+      "balance": 1399.1100000000001,
+      "transactions": " Deposited 1000,  Deposited 1000,  Withdraw 500,  Withdraw 200.89,  Deposited 100, "
+    },
+    {
+      "name": "wayn",
+      "email": "wayn@mit.edu",
+      "password": "abhi",
+      "balance": 5000,
+      "transactions": " Deposited 10000,  Withdraw 5000, "
+    },
+    {
+      "name": "parker",
+      "email": "parker@mit.edu",
+      "password": "abhi",
+      "balance": 0,
+      "transactions": []
+    },
+    {
+      "name": "ironman",
+      "email": "ironman@mit.edu",
+      "password": "abhi",
+      "balance": 10000,
+      "transactions": " Deposited 10000, "
+    },
+    {
+      "name": "new user",
+      "email": "new@mit.edu",
+      "password": "abhi",
+      "balance": 0,
+      "transactions": []
+    },
+    {
+      "name": "dr. Suess",
+      "email": "suess@gmail.com",
+      "password": "abhi",
+      "balance": 10000,
+      "transactions": " Deposited 10000, "
+    },
+    {
+      "name": "pete",
+      "email": "pete@hotmail.com",
+      "password": "abhi",
+      "balance": 1999,
+      "transactions": " Deposited 1999, "
+    },
+    {
+      "name": "brad",
+      "email": "brad@mit.edu",
+      "password": "abhi",
+      "balance": 600,
+      "transactions": " Deposited 600, "
+    },
+    {
+      "name": "rob",
+      "email": "rob@yahoo.com",
+      "password": "abhi",
+      "balance": 0,
+      "transactions": []
+    },
+    {
+      "name": "michelle",
+      "email": "michelle@gmail.com",
+      "password": "abhi",
+      "balance": 4500.5,
+      "transactions": " Deposited 5000.50,  Withdraw 500, "
+    },
+    {
+      "name": "alexa",
+      "email": "alexa@amazon.com",
+      "password": "abhi",
+      "balance": 300,
+      "transactions": " Deposited 600,  Withdraw 300, "
+    }
+  ]
+}
